@@ -6,6 +6,5 @@ An Web game app that lets you play the Hangman game.
 * CSS
 * HTML
 * API
-* 
 # Try out
 https://orad-hangman.netlify.app/
